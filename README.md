@@ -22,11 +22,11 @@ Siga os passos abaixo para configurar o ambiente local:
 Clone o repositório:
 
 Bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
+git clone (https://github.com/osmarfilho/Meu-Portfolio)
 Entre na pasta do projeto:
 
 Bash
-cd NOME_DO_REPO
+cd portfo-sparkle-83
 Instale as dependências:
 
 Bash
